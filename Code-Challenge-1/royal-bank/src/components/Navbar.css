@@ -1,0 +1,12 @@
+.nav-container{
+    background-color: #a646fff3;
+    height:80px;
+    width:100%;
+}
+
+
+.nav-container h1{
+    color:#fff;
+    padding:20px;
+    font-family:'Times New Roman', Times, serif;
+}
